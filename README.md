@@ -28,16 +28,15 @@ Durante estos días crearás un producto que resuelve el problema de muchas de l
 
 Las estudiantes de Laboratoria sueñan con lograr su estabilidad y/o independencia financiera. Se podrá lograr con el tiempo con su nuevo sueldo como programadora o diseñadora de experiencia.  Pero, más allá de esperar un buen salario, pocas se han sentado a planificar cómo lograr sus metas financieras y proyectar cuándo lograrlas. 
 
-Al recibir una oferta de trabajo, las estudiantes no tienen un producto que les guíe a saber lo que les quedará libre del salario ofrecido, ni tienen un producto que les guíe a planificar cómo usar ese dinero “libre” para ir construyendo su ruta hacia la independencia financiera.
+Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen un producto que les guíe a saber lo que les quedará libre del salario ofrecido, ni tienen un producto que les guíe a planificar cómo usar ese dinero “libre” para ir construyendo su ruta hacia la independencia financiera.
 
 
 ## Consideraciones generales
 
 - Este proyecto se debe resolver en equipos de hasta 4 personas.
-<!-- - Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database). -->
 - Tiempo para completar el reto: 3 días.
 - Habrá dos presentaciones, una a la mitad de la _hackathon_ y otra al final.
-- Esta aplicación que crearas va dirigido a estudiantes actuales de Laboratoria, pero podría ser usado también por egresadas de Laboratoria.
+- Esta aplicación/web app que crearas va dirigido a estudiantes actuales de Laboratoria, pero podría ser usado también por egresadas de Laboratoria.
 
 ## Objetivos de aprendizaje
 
@@ -56,25 +55,27 @@ Al recibir una oferta de trabajo, las estudiantes no tienen un producto que les 
 		- Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
 		por _squad_ en el que se presente el _planning_
 		y las inspiraciones utilizadas para definir el producto. 
-		Ademas:
+		Ademá	s:
 		- El diseño visual de los componentes es de libre elección.
-		- Agregar en el readme análisis de heuristicas de usabilidad.
+		- Agregar en el readme análisis de heurísticas de usabilidad.
 		- Modelo de negocio.
 		- Agregar en el readme sketch y/o prototipo (alta fidelidad , baja fidelidad o navegable.)
 		- Agregar en el archivo _readme_, qué hizo cada una en el proyecto.
 		- Documentar la importancia de la gestion saludable de la finanzas.
 
 	- #### FE
-		- Tú y tu equipo construiran una web app que solucione una problematica.
-		- El producto deberá presentarse publicado en github pages o en alguna plataforma de _hosting_ ( [now](https://zeit.co/now), [firebase hosting](https://firebase.google.com/products/hosting/).
-		- Pueden usar algún framework de css si así lo deciden.
+		- Tú y tu equipo construirán una web app que solucione una problemática.
+		- El producto deberá presentarse publicado en github pages o en alguna plataforma de _hosting_ ( [now](https://zeit.co/now), [firebase hosting](https://firebase.google.com/products/hosting/)).
+		- Pueden usar algún framework de CSS si así lo deciden.
 	
 ## Historias de Usuario.
-A continuación te dejamos unas historias de usuario que te podrán servir como guía en la construccion de tu web app.
-	
-	- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los proximos 6 meses para poder sobrellevar los gastos que  realizaré durante el bootcamp.
-	- Yo como estudiante de Laboratoria que acabo de recibir una oferta de trabajo quiero poder realizar un presupuesto de mis gastos futuros y poder ahorar un 10% de mi salario.
-	- Yo como egresada de Laboratoria que me encuentro trabajando quiero poder realizar un  presupuesto de mis gastos actuales, para en un futuro poder independizarme.
+A continuación te dejamos unas historias de usuario que te podrán servir como guía en la construcción de tu web app.
+
+	- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los próximos 6 meses para poder sobrellevar los gastos que realizaré durante el bootcamp.
+	- Yo como estudiante de Laboratoria que acabo de recibir una oferta de trabajo quiero poder realizar un presupuesto de mis gastos futuros y poder ahorrar un 10% de mi salario.
+	- Yo como egresada de Laboratoria que me encuentro trabajando quiero poder realizar un presupuesto de mis gastos actuales, para en un futuro poder independizarme.
+
+Siéntete libre de agregar las historias de usuario que requieras.
 
 ## Sobre las presentaciones
 
