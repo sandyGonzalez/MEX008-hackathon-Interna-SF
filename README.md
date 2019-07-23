@@ -89,7 +89,7 @@ Siéntete libre de agregar las historias de usuario que requieras.
 
 ## Recursos
 
-- En el siguiente [Link](https://drive.google.com/drive/folders/1A4bzsKaCe1zMP15KUfPo_dkafti6Gksc) podrás encontrar recursos para resolver el reto.
+- En el siguiente [Link](https://drive.google.com/drive/folders/1A4bzsKaCe1zMP15KUfPo_dkafti6Gksc?usp=sharing) podrás encontrar recursos para resolver el reto.
 - En el siguiente [link](https://www.nngroup.com/articles/persona/) podrás encontrar informacion para poder desarrollar el user persona. Te dejamos un ejemplo de [user persona](http://www.businessdesigntools.com/portfolio-items/persona-canvas/).
 - Te dejamos algunos links en donde puedes consultar framework de CSS ([Bootstrap](https://getbootstrap.com/), [Materialize](https://materializecss.com/), [foundations](https://foundation.zurb.com/) y un recurso en donde podrás ver otras opciones de [framework](https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019)).
 - Para la persistencia de datos puedes investigar sobre [storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)
