@@ -66,14 +66,15 @@ Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen un product
 	- #### FE
 		- Tú y tu equipo construirán una web app que solucione una problemática.
 		- El producto deberá presentarse publicado en github pages o en alguna plataforma de _hosting_ ( [now](https://zeit.co/now), [firebase hosting](https://firebase.google.com/products/hosting/)).
+		- En este proyecto debe haber persistencia de los datos. Con lo anterior nos referimos a que si la usuaria ingresó  un dato, que ese dato se pueda visualizar aunque recargues la página.
 		- Pueden usar algún framework de CSS si así lo deciden.
 	
 ## Historias de Usuario.
 A continuación te dejamos unas historias de usuario que te podrán servir como guía en la construcción de tu web app.
 
-	- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los próximos 6 meses para poder sobrellevar los gastos que realizaré durante el bootcamp.
 	- Yo como estudiante de Laboratoria que acabo de recibir una oferta de trabajo quiero poder realizar un presupuesto de mis gastos futuros y poder ahorrar un 10% de mi salario.
 	- Yo como egresada de Laboratoria que me encuentro trabajando quiero poder realizar un presupuesto de mis gastos actuales, para en un futuro poder independizarme.
+	- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los próximos 6 meses para poder sobrellevar los gastos que realizaré durante el bootcamp.
 
 Siéntete libre de agregar las historias de usuario que requieras.
 
@@ -86,5 +87,7 @@ Siéntete libre de agregar las historias de usuario que requieras.
 ## Recursos
 
 - En el siguiente [Link](https://drive.google.com/drive/folders/1A4bzsKaCe1zMP15KUfPo_dkafti6Gksc) podrás encontrar recursos para resolver el reto.
-- En el siguiente [link]() podrás encontrar informacion para poder desarrollar el user persona. Te dejamos un ejemplo de [user persona]()
+- En el siguiente [link]() podrás encontrar informacion para poder desarrollar el user persona. Te dejamos un ejemplo de [user persona]().
+- Te dejamos algunos links en donde puedes consultar framework de CSS ([Bootstrap](https://getbootstrap.com/), [Materialize](https://materializecss.com/), [foundations](https://foundation.zurb.com/) y un recurso en donde podrás ver otras opciones de [framework](https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019)).
+- Para la persistencia de datos puedes investigar sobre [storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)
 
