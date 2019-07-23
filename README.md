@@ -24,7 +24,7 @@ Al mismo tiempo, si bien existen muchas aplicaciones que ayudan a los usuarios a
 
 ## Resumen del proyecto
 
-Durante estos días crearás un producto que resuelve el problema de muchas de las estudiantes del Bootcamp de Laboratoria.
+Durante estos tres días crearás un producto que resuelve el problema de muchas de las estudiantes del Bootcamp de Laboratoria.
 
 Las estudiantes de Laboratoria sueñan con lograr su estabilidad y/o independencia financiera. Se podrá lograr con el tiempo con su nuevo sueldo como programadora o diseñadora de experiencia.  Pero, más allá de esperar un buen salario, pocas se han sentado a planificar cómo lograr sus metas financieras y proyectar cuándo lograrlas. 
 
@@ -72,14 +72,17 @@ Al recibir una oferta de trabajo, las estudiantes/egresadas no tienen un product
 ## Historias de Usuario.
 A continuación te dejamos unas historias de usuario que te podrán servir como guía en la construcción de tu web app.
 
-	- Yo como estudiante de Laboratoria que acabo de recibir una oferta de trabajo quiero poder realizar un presupuesto de mis gastos futuros y poder ahorrar un 10% de mi salario.
-	- Yo como egresada de Laboratoria que me encuentro trabajando quiero poder realizar un presupuesto de mis gastos actuales, para en un futuro poder independizarme.
-	- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los próximos 6 meses para poder sobrellevar los gastos que realizaré durante el bootcamp.
+- Yo como estudiante de Laboratoria que acabo de recibir una oferta de trabajo quiero poder realizar un presupuesto de mis gastos futuros y poder ahorrar un 10% de mi salario.
+- Yo como egresada de Laboratoria que me encuentro trabajando quiero poder realizar un presupuesto de mis gastos actuales, para en un futuro poder independizarme.
+- Yo como estudiante de Laboratoria quiero poder realizar un presupuesto de los próximos 6 meses para poder sobrellevar los gastos que realizaré durante el bootcamp.
 
 Siéntete libre de agregar las historias de usuario que requieras.
 
 ## Sobre las presentaciones
 
+- Habrá 2 presentaciones:
+	- Primer presentación será el día 24 de julio a partir de la 13:30.
+	- Segunda presentación será el día 25 de julio a partir de las 15:00.
 - Cada squad tendrá 3 minutos para presentar y 2 minutos para preguntas.
 - Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final.
 - Solo podran presentar si cuentan con la liga de su proyecto, no podrán utilizar su propia computadora.
