@@ -1,5 +1,47 @@
 # "Hackathon" de final de _Common Core_, Salud Financiera
 
+# Introducción
+
+Fatima como estudiante de laboratoria quiere hacer un presupuesto para los proximos  meses del bootcamp.
+Fatima quiere adquirir el hábito del ahorro para contar con dinero suficiente en lo que encuentra trabajo.
+Fatima quiere planificar sus metas para cumplir con plazos definidos.
+Fatima como estudiante quiere saber que seguro de vida o gastos medicos se adaptan mejor a su presupuesto.
+
+
+# Resumen del proyecto
+
+FinLab: tu laboratorio financiero.
+FinLab surgío del concepto de laboratorio (sic) que según la rae es un “lugar dotado de los medios necesarios para realizar investigaciones, experimentos y trabajos de carácter científico o técnico.” y también es “Realidad en la cual se experimenta o se elabora algo.” En FinLab creemos que la mejor manera de aprender es haciendo y experimentando, por ello tenemos opciones de plantillas para elaborar presupuesto para o la opción de que armes tu propio presupuesto guiado por nuestros expertos.
+Con el desarrollo de FinLab buscamos generar un producto que se enfoque en un grupo en específico: mujeres en América Latina que no tuvieron acceso a una educación de calidad, que están estudiando en el bootcamp de Laboratoria para convertirse en Desarrolladoras Web y Diseñadoras de Experiencia de Usuario que estan proximas a integrarse al mundo de la tecnología. 
+Al no haber tenido un trabajo bien remunerado, al salir del bootcamp la mayoría de las egresadas de laboratoria enfrenta la realidad de no saber cómo distribuir su dinero. Con esta herramienta buscamos potenciar su salud financiera y ayudar en la obtención de las metas financieras que ellas se plantean.
+
+ # User Persona
+
+imagen
+
+# Historias de Usuario
+
+-Fátima como estudiante de Laboratoria quiere hacer un presupuesto para los próximos meses del bootcamp.
+
+-Fátima desea adquirir el hábito del ahorro para contar con dinero suficiente en lo que encuentra trabajo al terminar el bootcamp.
+
+-Fátima quiere planificar sus ingresos, egresos y ahorros para cumplir sus metas a corto, mediano y largo plazo.
+
+
+#Sketch (prototipo de baja fidelidad):
+
+
+
+#Prototipo de alta fidelidad
+
+
+
+
+
+
+
+
+
 ## Índice
 
 - [Preámbulo](#preámbulo)
