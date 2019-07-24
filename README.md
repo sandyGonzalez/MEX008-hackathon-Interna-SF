@@ -2,10 +2,13 @@
 
 # Introducción
 
-Fatima como estudiante de laboratoria quiere hacer un presupuesto para los proximos  meses del bootcamp.
-Fatima quiere adquirir el hábito del ahorro para contar con dinero suficiente en lo que encuentra trabajo.
-Fatima quiere planificar sus metas para cumplir con plazos definidos.
-Fatima como estudiante quiere saber que seguro de vida o gastos medicos se adaptan mejor a su presupuesto.
+Desde siempre en la sociedad se ha tenido un consigna importante al estatus financiero de las personas.
+La salud financiera personal se define como la estabilidad de un individuo en todos los aspectos relativos a la gestión de su dinero. Pero aunque esto es una norma, muy pocas personas tienen una óptima salud financiera. Tener un desorden en la economía individual puede tener múltiples consecuencias que a la larga perjudican directamente el rendimiento personal:
+-Mayor probabilidad a presentar problemas de salud relacionados con el estrés
+-Deterioro en sus relaciones familiares
+-Disminución de la productividad en su trabajo
+-Depresión
+En la actualidad con el desarrollo de mutiples avances tecnologicos, y con el fin de cubrir las necesidades que han surgido en la sociedad, multiples productos se han enfocado en este tema sin llegar a cubrir todos los nichos.  No hay aplicaciones que ayuden y eduquen a las personas a planificar sus ingresos, gastos y ahorros con miras a un futuro tanto de corto como de mediano plazo, y para visualizar la mejor estabilidad financiera que podrá tener en su vida.
 
 
 # Resumen del proyecto
