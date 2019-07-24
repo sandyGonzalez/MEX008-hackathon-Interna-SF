@@ -35,18 +35,18 @@ Al no haber tenido un trabajo bien remunerado, al salir del bootcamp la mayoría
 -Fátima quiere planificar sus ingresos, egresos y ahorros para cumplir sus metas a corto, mediano y largo plazo.
 
 
-#Sketch (prototipo de baja fidelidad):
+# Sketch (prototipo de baja fidelidad):
 
 link Marvel: http://bit.ly/FinLab-LowPrototype
 
-#Prototipo de alta fidelidad
+# Prototipo de alta fidelidad
 
 link Figma: http://bit.ly/FinLabPrototype
 
 
 
 
-#Link Presentación
+# Link Presentación
 
 http://bit.ly/Presentation-FinLab
 
