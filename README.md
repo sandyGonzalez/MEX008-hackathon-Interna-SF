@@ -16,8 +16,8 @@ Con el desarrollo de FinLab buscamos generar un producto que se enfoque en un gr
 Al no haber tenido un trabajo bien remunerado, al salir del bootcamp la mayoría de las egresadas de laboratoria enfrenta la realidad de no saber cómo distribuir su dinero. Con esta herramienta buscamos potenciar su salud financiera y ayudar en la obtención de las metas financieras que ellas se plantean.
 
  # User Persona
-
-imagen
+ <img src= "/img/image.png">
+ 
 
 # Historias de Usuario
 
