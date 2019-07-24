@@ -37,16 +37,18 @@ Al no haber tenido un trabajo bien remunerado, al salir del bootcamp la mayoría
 
 #Sketch (prototipo de baja fidelidad):
 
-link Marvel: https://marvelapp.com/1h39dcc6/screen/59641398
+link Marvel: http://bit.ly/FinLab-LowPrototype
 
 #Prototipo de alta fidelidad
 
-
+link Figma: http://bit.ly/FinLabPrototype
 
 
 
 
 #Link Presentación
+
+http://bit.ly/Presentation-FinLab
 
 https://www.canva.com/design/DADglw30UHs/gxNXN55j4EpaVE_llz9Szg/view?utm_content=DADglw30UHs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
