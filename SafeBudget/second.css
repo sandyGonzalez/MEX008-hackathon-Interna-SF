@@ -1,0 +1,109 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.contender{
+    height: 640px;
+    width: 360px;
+
+}
+
+.header{
+    position: absolute;
+    width: 360px;
+    height: 130px;
+    background: #6BBFBF;
+}
+
+.contend{
+
+    position: absolute;
+    width: 360px;
+    height: 510px;
+    top: 130px;
+
+    background: #F2BE41;
+
+}
+
+.nav{
+    position: absolute;
+    width: 317px;
+    height: 58px;
+    left: 32px;
+    top: 31px;
+
+}
+
+.imageSalary{
+    position: absolute;
+    width: 242px;
+    height: 182px;
+    left: 62px;
+    top: 41px;
+
+}
+
+.titleSalary{
+    position: absolute;
+    width: 204px;
+    height: 63px;
+    left: 77px;
+    top: 200px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.inputSalary{
+    position: absolute;
+    width: 172px;
+    height: 47px;
+    left: 98px;
+    top: 279px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    background: #F2BE41;
+    color: #000000;
+    border: #F2BE41 solid 1px;
+}
+
+.contend ::placeholder{
+    color: black;
+}
+
+.titleExample{
+    position: absolute;
+    width: 204px;
+    height: 78px;
+    left: 85px;
+    top: 339px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.nextSalary {
+    position: absolute;
+    width: 163px;
+    height: 42px;
+    left: 103px;
+    top: 427px;
+    background: #C4C4C4;
+    border-radius: 16px;
+    border: #c4c4c4 solid 1px;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+

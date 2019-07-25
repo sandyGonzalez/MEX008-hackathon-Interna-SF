@@ -1,0 +1,133 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Login Screen*/
+.login{
+
+    display: flex;
+    position: fixed;
+    width: 360px;
+    height: 640px;
+    background: #E5E5E5;
+    margin: 0;
+    padding: 0;
+}
+
+.login ::placeholder{
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    color: #A29898;
+}
+
+.titleLogin{
+    position: absolute;
+    left: 110px;
+    top: 71px;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.o{
+    position: absolute;
+    left: 169px;
+    top: 371px;
+    font-size: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.email{
+    position: absolute;
+    width: 266px;
+    height: 40px;
+    left: 47px;
+    top: 196px;
+
+    transform: rotate(-0.02deg);
+    border-radius: 14px;
+    border: #404040 solid 2px;
+    background: #E5E5E5;
+
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    color: #6BBFBF;
+    font-weight: bold;
+}
+
+.password{
+    position: absolute;
+    width: 266px;
+    height: 40px;
+    left: 48px;
+    top: 253px;
+
+    transform: rotate(-0.02deg);
+    border-radius: 14px;
+    border: #404040 solid 2px;
+    background: #E5E5E5;
+
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    color: #6BBFBF;
+    font-weight: bold;
+}
+
+.enterLogin{
+    position: absolute;
+    width: 163px;
+    height: 42px;
+    left: 98px;
+    top: 336px;
+
+    background: #F2BE41;
+    border-radius: 16px;
+    border: #F2BE41 solid 1px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.registerLogin{
+    position: absolute;
+    width: 163px;
+    height: 42px;
+    left: 98px;
+    top: 421px;
+
+    background: #F2BE41;
+    border-radius: 16px;
+    border: #F2BE41 solid 1px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.logosLogin{
+    position: absolute;
+    width: 143px;
+    height: 37px;
+    left: 114px;
+    top: 531px;
+
+}
+
+.f{
+    position: absolute;
+    width: 125px;
+    height: 49px;
+    left: 7px;
+}
+
+
+

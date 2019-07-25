@@ -1,0 +1,268 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5
+}
+
+.contender{
+    position: fixed;
+    width: 360px;
+    height: 640px;
+    background: #E5E5E5;
+}
+
+.expensesMonth{
+    position: absolute;
+    width: 285px;
+    height: 58px;
+    left: 47px;
+    top: 3px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 41px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+
+.expenses1{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left:  41px;
+    top: 190px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: none;
+    background:  #D9D9D9;
+}
+
+.expenses2{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left:  41px;
+    top: 316px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: none;
+    background:  #D9D9D9;
+}
+
+.expenses3{
+     position: absolute;
+     width: 95px;
+     height: 18px;
+     left:  41px;
+     top: 444px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 15px;
+     line-height: 18px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     color: #000000;
+     border: none;
+    background:  #D9D9D9;
+ }
+
+
+.expenses4{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left: 227px;
+    top: 186px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: none;
+    background:  #D9D9D9;
+}
+
+.expenses5{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left: 227px;;
+    top: 316px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: none;
+    background:  #D9D9D9;
+}
+
+.expenses6{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left: 227px;
+    top: 444px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: none;
+    background:  #D9D9D9;
+}
+
+
+
+.total{
+    position: absolute;
+    width: 219px;
+    height: 71px;
+    left: 32px;
+    top: 442px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+.footer{
+    position: absolute;
+    width: 360px;
+    height: 90px;
+    top: 550px;
+    background: #6BBFBF;
+}
+
+.icon1{
+    position: absolute;
+    width: 73px;
+    height: 76px;
+    left: 15px;
+    top: 14px;
+
+}
+
+.icon2{
+    position: absolute;
+    width: 73px;
+    height: 85px;
+    left: 79px;
+    top: 11px;
+
+}
+
+.icon3{
+    position: absolute;
+    width: 63px;
+    height: 66px;
+    left: 147px;
+    top: 14px;
+
+}
+
+.icon4{
+    position: absolute;
+    width: 73px;
+    height: 81px;
+    left: 213px;
+    top: 7px;
+
+}
+
+.icon5{
+    position: absolute;
+    width: 75px;
+    height: 79px;
+    left: 282px;
+    top: 11px;
+
+}
+
+.r{
+    position: absolute;
+    width: 95px;
+    height: 82px;
+    left: 41px;
+    top: 109px;
+}
+
+.b{
+    position: absolute;
+    width: 95px;
+    height: 82px;
+    left:41px;
+    top: 364px;
+
+
+}
+
+.c{
+    position: absolute;
+    width: 95px;
+    height: 82px;
+    left:  227px;
+    top: 109px;
+}
+
+
+.g{
+    position: absolute;
+    width: 95px;
+    height: 82px;
+    left: 41px;
+    top: 234px;
+}
+
+.l{
+    position: absolute;
+    width: 96px;
+    height: 82px;
+    left: 226px;
+    top: 363px;
+}
+
+.a{
+    position: absolute;
+    width: 95px;
+    height: 82px;
+    left: 227px;
+    top: 234px;
+
+}
+

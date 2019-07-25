@@ -1,0 +1,125 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: #e5e5e5;
+}
+body.welcome-page{
+    background-color: #6BBFBF;
+}
+.container .registro-gasto{
+    background-color: #6BBFBF;
+}
+.container .registro-gasto h3, 
+.container .registro-ingreso h3{
+    text-align: center;
+    font-size: 20pt;
+    padding: 15px 0px;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #384A59;
+}
+.container .registro-ingreso{
+    background-color: #80A2CD;
+}
+.container .registro-gasto .btns-superiores,
+.container .registro-ingreso .btns-superiores{
+    padding: 15px 0px;
+}
+.container .registro-ingreso .btns-superiores ul li img,
+.container .registro-ingreso .btns-superiores ul li img,
+.container .registro-gasto .btns-superiores ul li img,
+.container .registro-gasto .btns-superiores ul li img{
+    width: 14px;
+}
+.container .registro-gasto .cantidad,
+.container .registro-ingreso .cantidad{
+    padding: 15px;
+}
+.container .registro-gasto .cantidad input,
+.container .registro-ingreso .cantidad input{
+    font-size: 36pt;
+    width: 60%;
+    background-color: #e5e5e5;
+    border: none;
+    border-radius: 16pt;
+    margin-left: 15%;
+}
+.container .registro-gasto .btns-superiores ul,
+.container .registro-ingreso .btns-superiores ul{
+    text-align: center;
+}
+.container .registro-gasto .btns-superiores ul li,
+.container .registro-ingreso .btns-superiores ul li{
+    list-style: none;
+    display: inline;
+}
+.container .registro-gasto .btns-superiores .btn-gastos,
+.container .registro-ingreso .btns-superiores .btn-ingresos{
+    border-style: solid;
+    border-color: #384A59;
+    border-width: 1px;
+    border-radius: 16pt;
+    width: fit-content;
+    padding: 2px 15px;
+    margin-right: 50%;
+}
+.container .registro-gasto .cantidad select{
+    border-style: solid;
+    border-color: #384A59;
+    border-width: 1px;
+    border-radius: 16pt;
+    background-color: #6BBFBF;
+}
+.container .registro-ingreso .cantidad select{
+    border-style: solid;
+    border-color: #384A59;
+    border-width: 1px;
+    border-radius: 16pt;
+    background-color: #80A2CD;
+}
+.container .registro-gasto .iconos-categorias,
+.container .registro-ingreso .iconos-categorias{
+    text-align: center;
+}
+.container .registro-gasto .iconos-categorias img,
+.container .registro-ingreso .iconos-categorias img{
+    width: 42px;
+    margin: 10px 20px;
+}
+
+.welcome-logo,
+.welcome-text{
+    text-align: center; 
+    margin: 10px;
+}
+.welcome-page h1{
+    font-family: 'Baloo Tammudu', cursive;
+    text-align: center;
+    color: #5697A6;
+    margin-top: 15px;
+    font-size: 36pt;
+
+}
+.welcome-logo img{
+    width: 180px;
+}
+.welcome-text h4{
+    margin: 10px;
+    font-size: x-large;
+    color: whitesmoke;
+}
+.welcome-text p{
+    font-size: 14pt;
+    margin-bottom: 30px;
+    color: whitesmoke;
+}
+.welcome-text button{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #384A59;
+    border-radius: 16pt;
+    padding: 5px 15px;
+    font-size: 16pt;
+}

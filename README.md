@@ -1,9 +1,9 @@
-# "Hackathon" de final de _Common Core_, Salud Financiera
+# SafeBudget
 
-# Introducción
+# PREAMBULO
 
-Desde siempre en la sociedad se ha tenido un consigna importante al estatus financiero de las personas.
-La salud financiera personal se define como la estabilidad de un individuo en todos los aspectos relativos a la gestión de su dinero. Pero aunque esto es una norma, muy pocas personas tienen una óptima salud financiera. Tener un desorden en la economía individual puede tener múltiples consecuencias que a la larga perjudican directamente el rendimiento personal:
+En la sociedad occidental se ha tenido la consigna de tener un estatus financiero saludable. Pero ¿a que se refiere esto? La salud financiera personal se define como la estabilidad de un individuo en todos los aspectos relativos a la gestión de su dinero. Aunque esto ha tomado mayor relevancia en los ultimos años, muy pocas personas tienen una óptima salud financiera teniendo como consecuencia un desorden en la economía individual, lo cual puede acarrear multiples  múltiples consecuencias que a la larga perjudican directamente el rendimiento personal como:
+
 -Mayor probabilidad a presentar problemas de salud relacionados con el estrés
 
 -Deterioro en sus relaciones familiares
@@ -12,14 +12,40 @@ La salud financiera personal se define como la estabilidad de un individuo en to
 
 -Depresión
 
-En la actualidad con el desarrollo de mutiples avances tecnologicos, y con el fin de cubrir las necesidades que han surgido en la sociedad, multiples productos se han enfocado en este tema sin llegar a cubrir todos los nichos.  No hay aplicaciones que ayuden y eduquen a las personas a planificar sus ingresos, gastos y ahorros con miras a un futuro tanto de corto como de mediano plazo, y para visualizar la mejor estabilidad financiera que podrá tener en su vida.
+En la actualidad con el desarrollo de mutiples avances tecnologicos, y con el fin de cubrir las necesidades que han surgido en la sociedad, multiples productos se han enfocado en este tema sin llegar a cubrir todos los nichos. No hay aplicaciones que ayuden y eduquen a las personas a planificar sus ingresos, gastos y ahorros con miras a un futuro tanto de corto como de mediano plazo, y para visualizar la mejor estabilidad financiera que podrá tener en su vida.
+
+# dEFINICION DEL PROYECTO
+
+# Objetivo/Desafio/RPROBLEMATICA
+# Planeación
+ research
+ cual es el problema
+ como vamos a solucionarlo
+ que funciones debe tener nuestra applicacion web para lograrlo
+
+ user persona
+ caracteristicas
+ necesidades
+ motivaciones
+
+historias de usuario
+MODELO DE NEGOCIO
 
 
-# Resumen del proyecto
+DURANTE EL PROCESOS UTILIZAMOS HERRAMIENTAS DISEÑAR EL PRODUCTI
+BENCHMARKING
+BRAINSTORMING
+dISEÑO VISUAL (PALETA DE COLORES)
+HEURISTICAS DE USABILIDAD
+PROTOTIPO DE BAJA FIDELIDAD
+PROTOTIPO DE ALTA
 
-FinLab: tu laboratorio financiero.
-FinLab surgío del concepto de laboratorio (sic) que según la rae es un “lugar dotado de los medios necesarios para realizar investigaciones, experimentos y trabajos de carácter científico o técnico.” y también es “Realidad en la cual se experimenta o se elabora algo.” En FinLab creemos que la mejor manera de aprender es haciendo y experimentando, por ello tenemos opciones de plantillas para elaborar presupuesto para o la opción de que armes tu propio presupuesto guiado por nuestros expertos.
-Con el desarrollo de FinLab buscamos generar un producto que se enfoque en un grupo en específico: mujeres en América Latina que no tuvieron acceso a una educación de calidad, que están estudiando en el bootcamp de Laboratoria para convertirse en Desarrolladoras Web y Diseñadoras de Experiencia de Usuario que estan proximas a integrarse al mundo de la tecnología. 
+
+
+
+SafeBudget
+Surgío como respuesta ala necesidad que detectamos en un grupo de mujeres en América Latina que no tuvieron acceso a una educación de calidad, que están estudiando en el bootcamp de Laboratoria para convertirse en Desarrolladoras Web y Diseñadoras de Experiencia de Usuario que estan proximas a integrarse al mundo de la tecnología. del concepto de laboratorio (sic) que según la rae es un “lugar dotado de los medios necesarios para realizar investigaciones, experimentos y trabajos de carácter científico o técnico.” y también es “Realidad en la cual se experimenta o se elabora algo.” En FinLab creemos que la mejor manera de aprender es haciendo y experimentando, por ello tenemos opciones de plantillas para elaborar presupuesto para o la opción de que armes tu propio presupuesto guiado por nuestros expertos.
+Con el desarrollo de FinLab buscamos generar un producto que se enfoque en un grupo en específico: 
 Al no haber tenido un trabajo bien remunerado, al salir del bootcamp la mayoría de las egresadas de laboratoria enfrenta la realidad de no saber cómo distribuir su dinero. Con esta herramienta buscamos potenciar su salud financiera y ayudar en la obtención de las metas financieras que ellas se plantean.
 
  # User Persona

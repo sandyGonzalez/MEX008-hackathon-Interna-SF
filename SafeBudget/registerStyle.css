@@ -1,0 +1,67 @@
+*,
+*:before,
+*:after {
+    box-sizing: inherit
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+.register{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-user input {
+    -webkit-box-shadow: 9px 2px 17px 1px rgba(58, 51, 53, 0.13);
+    -moz-box-shadow: 9px 2px 17px 1px rgba(58, 51, 53, 0.13);
+    box-shadow: 9px 2px 17px 1px rgba(58, 51, 53, 0.13);
+    margin: 0.5rem auto;
+    border-radius: 16px;
+    border: 2px solid #6BBFBF;
+    padding: 0.5rem;
+}
+
+.register-title {
+    top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.new-user {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.buttons{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    background: #F2BE41;
+    border-radius: 16px;
+    width: fit-content;
+    border: none;
+    padding: 0.5rem;
+}
